@@ -1,0 +1,19 @@
+{
+    "response_code": 0,
+    "trivia": [
+        {
+            "question": "Starfighter Assault is the best gamemode", 
+            "type": "true/false", 
+            "answer": "true",
+            "unit": "Star Wars",
+            "id": "1"
+        },
+        {
+            "question": "Who is the worst Star Wars character?", 
+            "type": "Reveal Answer", 
+            "answer": "Jocasta Nu",
+            "unit": "Star Wars",
+            "id": "2"
+        }
+    ]
+}
